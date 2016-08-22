@@ -1,0 +1,920 @@
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan  4 19:25:38 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan  4 19:25:38 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 16:13:26 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:1 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 16:13:26 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 16:19:31 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:1 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 16:19:31 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 16:20:25 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:1 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 16:20:25 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 16:21:43 2012
+Execution stopped: Addr!=NULL, file ./../snap/../glib/bd.h, line 490
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 16:21:43 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 16:29:22 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 17:56:22 2012
+Execution stopped: Addr!=NULL, file ./../snap/../glib/bd.h, line 490
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 17:56:22 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 17:59:43 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 18:03:23 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 18:13:26 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 18:18:22 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 18:25:55 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 18:26:55 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 18:27:25 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 18:30:02 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 18:30:28 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan  5 18:31:40 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Jan  6 19:47:16 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Jan  6 20:26:09 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Jan  6 20:34:18 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Jan  6 20:37:04 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Jan  6 21:41:13 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Jan  7 08:45:15 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Jan  7 08:51:12 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling(90 10 17)/DNS/DNS.Err
+Sat Jan  7 17:14:15 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 10:43:06 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 10:45:37 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 10:47:37 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 11:28:55 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 12:58:24 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 12:59:15 2012
+Execution stopped: this!=NULL, file ./../snap/../glib/ds.h, line 2031
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 12:59:15 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:00:39 2012
+Execution stopped: this!=NULL, file ./../snap/../glib/ds.h, line 2031
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:00:39 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:46:21 2012
+Execution stopped: this!=NULL, file ./../snap/../glib/ds.h, line 2031
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:46:21 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:47:37 2012
+Execution stopped: this!=NULL, file ./../snap/../glib/ds.h, line 2031
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:47:37 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:48:35 2012
+Execution stopped: this!=NULL, file ./../snap/../glib/ds.h, line 2031
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:48:35 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:57:11 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:58:59 2012
+Execution stopped: this!=NULL, file ./../snap/../glib/ds.h, line 2031
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 13:58:59 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 14:04:44 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 14:07:49 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 14:08:33 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 14:08:57 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 15:15:42 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 16:51:11 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 16:53:04 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 16:55:25 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 16:57:58 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 17:00:13 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 17:12:03 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 17:14:53 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 10 17:15:14 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 11 09:34:01 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 11 10:35:35 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 11 10:41:32 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 11 16:06:02 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 11 16:06:59 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 20:47:08 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 21:55:37 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 21:59:34 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 22:01:30 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 22:59:51 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI7TKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 22:59:51 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 23:02:52 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI7TKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 23:02:52 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 23:04:40 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI7TKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 23:04:40 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 23:17:10 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Tue Jan 17 23:33:13 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 18:09:46 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 18:09:47 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 20:29:29 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 20:29:30 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 20:29:30 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 20:29:30 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 20:30:37 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 20:30:37 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 20:30:37 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Jan 18 20:30:37 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan 19 15:33:19 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan 19 15:37:28 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan 19 15:37:28 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan 19 15:42:03 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan 19 15:42:03 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan 19 15:44:05 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan 19 15:44:05 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan 19 15:44:46 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Thu Jan 19 15:44:46 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Jan 21 18:50:02 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:2 Type:4TVecI11THashKeyDatI4TInt8THitInfoEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Jan 21 18:50:02 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Jan 21 18:51:33 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Jan 21 18:52:37 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:2 Type:4TVecI11THashKeyDatI4TInt8THitInfoEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Jan 21 18:52:37 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Jan 21 19:02:05 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Jan 21 19:03:06 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Jan 22 00:49:51 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Jan 22 00:51:00 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Jan 22 01:03:30 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Jan 22 01:06:44 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Jan 22 01:11:15 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Jan 22 01:11:15 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Mon Jan 23 13:21:22 2012
+Execution stopped: Addr!=NULL, file ./../snap/../glib/bd.h, line 490
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Mon Jan 23 13:33:03 2012
+Execution stopped: Addr!=NULL, file ./../snap/../glib/bd.h, line 490
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Mon Jan 23 13:34:05 2012
+Execution stopped: Addr!=NULL, file ./../snap/../glib/bd.h, line 490
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Mon Jan 23 13:36:09 2012
+Execution stopped: Addr!=NULL, file ./../snap/../glib/bd.h, line 490
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Mon Jan 23 15:41:13 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI7TKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Mon Jan 23 15:51:56 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI7TKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Mon Jan 23 15:53:07 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI7TKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Mon Jan 23 15:54:14 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI7TKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Feb  4 18:45:38 2012
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'1 or 488 not a node.'], file ./../snap/graph.cpp, line 239
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Feb  4 19:02:26 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:16 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Feb  4 19:04:13 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:16 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Feb  4 19:04:54 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:1 Vals:1 MxVals:16 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Feb  4 19:07:31 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2 Vals:0 MxVals:0 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sat Feb  4 19:09:06 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2 Vals:0 MxVals:0 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb  5 19:43:33 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:8192 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntN7TNGraph5TNodeEEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb  5 20:04:27 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3368 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntN7TNGraph5TNodeEEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb  5 20:06:42 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3368 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntN7TNGraph5TNodeEEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb  5 20:22:06 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3368 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntN7TNGraph5TNodeEEE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 16:56:51 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:03:41 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:07:17 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:10:54 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:18:00 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:25:22 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:26:49 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:29:07 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:30:23 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:31:28 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:31:48 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:32:42 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:33:57 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 17:43:23 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 18:11:04 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 18:15:03 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 18:16:29 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 18:18:31 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 18:41:52 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 20:03:27 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 20:03:58 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 20:15:08 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 20:16:51 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Wed Feb 15 20:23:13 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:4894 MxVals:8192 Type:4TVecI11THashKeyDatI4TInt4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:08:39 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:24:10 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:26:03 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:29:44 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:30:42 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:31:56 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:32:23 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:34:13 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:35:41 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2211 Vals:2 MxVals:16 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:37:39 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2211 Vals:2 MxVals:16 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:38:36 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2211 Vals:2 MxVals:16 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:40:35 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2211 Vals:2 MxVals:16 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:41:56 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2211 Vals:2 MxVals:16 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Fri Feb 17 22:43:11 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:2211 Vals:2 MxVals:16 Type:4TVecI4TIntE'], file ./../snap/../glib/ds.h, line 412
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:17:35 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3156 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:17:36 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3156 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:17:37 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3156 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:17:39 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3156 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:17:40 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3156 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:17:42 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3156 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:17:43 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3156 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:17:45 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3156 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:17:46 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:3156 MxVals:4096 Type:4TVecI11THashKeyDatI4TIntS1_EE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:26:50 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI5TPairI4TIntS2_E4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:26:52 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI5TPairI4TIntS2_E4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:30:05 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI5TPairI4TIntS2_E4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:31:33 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI5TPairI4TIntS2_E4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:31:59 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI5TPairI4TIntS2_E4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:33:07 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI5TPairI4TIntS2_E4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:36:13 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI5TPairI4TIntS2_E4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/DNS.Err
+Sun Feb 19 15:38:05 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:0 MxVals:0 Type:4TVecI11THashKeyDatI5TPairI4TIntS2_E4TFltEE'], file ./../snap/../glib/ds.h, line 415
+--------

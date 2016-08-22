@@ -1,0 +1,70 @@
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 00:31:24 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 00:31:24 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 00:32:30 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 00:32:30 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 00:34:22 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 00:34:22 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 00:36:22 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 00:36:22 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 12:00:20 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 12:00:20 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 12:53:39 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Mon Jan 23 12:53:39 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Sat Feb  4 17:40:20 2012
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:5 Vals:2 MxVals:16 Type:4TVecI4TStrE'], file ./../snap/../glib/ds.h, line 415
+--------
+--------
+/home/motahhare/Desktop/Diff_Net_Sampling/DNS/GenNets.Err
+Sat Feb  4 17:40:20 2012
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./../snap/../glib/dt.h, line 343
+--------

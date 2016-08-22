@@ -1,0 +1,15 @@
+./DNS -n:celegans.txt -c:4000 -b:0.3 -dn:RCasc.txt
+mv Cascades.txt /Users/payamsiyari/Desktop/New\ Results/AB\ Sense/celeg/Beta/Cascades31.txt
+./DNS -n:celegans.txt -c:4000 -b:0.4 -dn:RCasc.txt
+mv Cascades.txt /Users/payamsiyari/Desktop/New\ Results/AB\ Sense/celeg/Beta/Cascades41.txt
+./DNS -n:celegans.txt -c:4000 -b:0.5 -dn:RCasc.txt
+mv Cascades.txt /Users/payamsiyari/Desktop/New\ Results/AB\ Sense/celeg/Beta/Cascades51.txt
+./DNS -n:celegans.txt -c:4000 -b:0.6 -dn:RCasc.txt
+mv Cascades.txt /Users/payamsiyari/Desktop/New\ Results/AB\ Sense/celeg/Beta/Cascades61.txt
+./DNS -n:celegans.txt -c:4000 -b:0.7 -dn:RCasc.txt
+mv Cascades.txt /Users/payamsiyari/Desktop/New\ Results/AB\ Sense/celeg/Beta/Cascades71.txt
+./DNS -n:celegans.txt -c:4000 -b:0.8 -dn:RCasc.txt
+mv Cascades.txt /Users/payamsiyari/Desktop/New\ Results/AB\ Sense/celeg/Beta/Cascades81.txt
+./DNS -n:celegans.txt -c:4000 -b:0.9 -dn:RCasc.txt
+mv Cascades.txt /Users/payamsiyari/Desktop/New\ Results/AB\ Sense/celeg/Beta/Cascades91.txt
+

@@ -1,0 +1,24 @@
+To generate cascades run: ./DNS
+
+usage: DNS
+   -n:Input ground-truth network (one file) (default:'network.txt')
+   -c:If positive, number of cascades, if negative, percentage of edges used at least in one cascade (default:-95)
+ (default:-95)
+   -m:Transmission model
+0:exponential, 1:power law, 2:mixture of 2 exponentials (default:0)
+ (default:0)
+   -a:Alpha for transmission model (default:1)
+ (default:1)
+   -a2:Second alpha for mixture of exponentials/power laws transmission model (default:1)
+ (default:1)
+   -p:Mixture of exponential/power laws transmission model weight (1.0 means max weight in 1st exp) (default:1)
+ (default:1)
+   -b:Beta for transmission model (default:0.5)
+ (default:0.5)
+   -stdb:Std for Beta in the transmission model (default:0)
+ (default:0)
+   -stdwt:Std for waiting time in the transmission model (default:0)
+ (default:0)
+   -dn:Diffusion network (one file) (default:'DiffNet.txt')
+
+Output Cascade File: Cascades.txt
